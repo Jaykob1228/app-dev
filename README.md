@@ -1,6 +1,3 @@
-# app-dev
-My first repository.
-
 # Fantastic Beasts and Where to Find Them
 
 ## Overview
